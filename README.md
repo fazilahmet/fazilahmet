@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fazilahmet_" target="blank"><img src="https://img.shields.io/twitter/follow/fazilahmet_?logo=twitter&style=for-the-badge" alt="fazilahmet_" /></a> </p>
 
-- 🔭 I’m currently working on **.Net projects in trabzon municipality**
+- 🔭 I’m currently working on **.Net projects in Trabzon Municipality**
 
 - 👯 I’m looking to collaborate on **With great project developers**
 
